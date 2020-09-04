@@ -1,6 +1,6 @@
 # twitter_copia
-projeto de uma cópia do twitter
-Esse projeto eu criei uma cópia do twitter totalmente do zero usando php, bootstrap, javascript e MySQL
+Projeto de uma cópia do twitter. 
+Nesse projeto eu criei uma cópia do twitter totalmente do zero usando php, bootstrap, javaScript e MySQL
 
 # Index Page:
 <img src="images/Screenshot_185.png">
